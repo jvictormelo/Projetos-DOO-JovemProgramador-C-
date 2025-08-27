@@ -1,0 +1,14 @@
+C:\workflow\program_ExemploSum\bin\Debug\net9.0\program_ExemploSum.exe
+C:\workflow\program_ExemploSum\bin\Debug\net9.0\program_ExemploSum.deps.json
+C:\workflow\program_ExemploSum\bin\Debug\net9.0\program_ExemploSum.runtimeconfig.json
+C:\workflow\program_ExemploSum\bin\Debug\net9.0\program_ExemploSum.dll
+C:\workflow\program_ExemploSum\bin\Debug\net9.0\program_ExemploSum.pdb
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\program_ExemploSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\program_ExemploSum.AssemblyInfoInputs.cache
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\program_ExemploSum.AssemblyInfo.cs
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\program_ExemploSum.csproj.CoreCompileInputs.cache
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\program_ExemploSum.dll
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\refint\program_ExemploSum.dll
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\program_ExemploSum.pdb
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\program_ExemploSum.genruntimeconfig.cache
+C:\workflow\program_ExemploSum\obj\Debug\net9.0\ref\program_ExemploSum.dll

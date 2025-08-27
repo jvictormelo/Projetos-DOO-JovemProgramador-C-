@@ -1,0 +1,11 @@
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\obj\Debug\net9.0\CadastroClientes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\obj\Debug\net9.0\CadastroClientes.Core.AssemblyInfoInputs.cache
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\obj\Debug\net9.0\CadastroClientes.Core.AssemblyInfo.cs
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\obj\Debug\net9.0\CadastroClientes.Core.csproj.CoreCompileInputs.cache
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\bin\Debug\net9.0\CadastroClientes.Core.deps.json
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\bin\Debug\net9.0\CadastroClientes.Core.dll
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\bin\Debug\net9.0\CadastroClientes.Core.pdb
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\obj\Debug\net9.0\CadastroClientes.Core.dll
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\obj\Debug\net9.0\refint\CadastroClientes.Core.dll
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\obj\Debug\net9.0\CadastroClientes.Core.pdb
+C:\workflow\Joao_Victor_Melo\CadastroClientes\CadastroClientes.Core\obj\Debug\net9.0\ref\CadastroClientes.Core.dll

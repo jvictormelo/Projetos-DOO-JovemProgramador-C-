@@ -1,0 +1,14 @@
+C:\workflow\ProjetoTeste\bin\Debug\net9.0\ProjetoTeste.exe
+C:\workflow\ProjetoTeste\bin\Debug\net9.0\ProjetoTeste.deps.json
+C:\workflow\ProjetoTeste\bin\Debug\net9.0\ProjetoTeste.runtimeconfig.json
+C:\workflow\ProjetoTeste\bin\Debug\net9.0\ProjetoTeste.dll
+C:\workflow\ProjetoTeste\bin\Debug\net9.0\ProjetoTeste.pdb
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\ProjetoTeste.AssemblyInfo.cs
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\ProjetoTeste.dll
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\refint\ProjetoTeste.dll
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\ProjetoTeste.pdb
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\ProjetoTeste.genruntimeconfig.cache
+C:\workflow\ProjetoTeste\obj\Debug\net9.0\ref\ProjetoTeste.dll

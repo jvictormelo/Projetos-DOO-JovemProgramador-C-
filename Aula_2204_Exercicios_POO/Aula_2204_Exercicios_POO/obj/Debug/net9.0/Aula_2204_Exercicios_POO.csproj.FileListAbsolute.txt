@@ -1,0 +1,14 @@
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\bin\Debug\net9.0\Aula_2204_Exercicios_POO.exe
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\bin\Debug\net9.0\Aula_2204_Exercicios_POO.deps.json
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\bin\Debug\net9.0\Aula_2204_Exercicios_POO.runtimeconfig.json
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\bin\Debug\net9.0\Aula_2204_Exercicios_POO.dll
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\bin\Debug\net9.0\Aula_2204_Exercicios_POO.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\Aula_2204_Exercicios_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\Aula_2204_Exercicios_POO.AssemblyInfoInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\Aula_2204_Exercicios_POO.AssemblyInfo.cs
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\Aula_2204_Exercicios_POO.csproj.CoreCompileInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\Aula_2204_Exercicios_POO.dll
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\refint\Aula_2204_Exercicios_POO.dll
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\Aula_2204_Exercicios_POO.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\Aula_2204_Exercicios_POO.genruntimeconfig.cache
+C:\workflow\Aula_2204_Exercicios_POO\Aula_2204_Exercicios_POO\obj\Debug\net9.0\ref\Aula_2204_Exercicios_POO.dll

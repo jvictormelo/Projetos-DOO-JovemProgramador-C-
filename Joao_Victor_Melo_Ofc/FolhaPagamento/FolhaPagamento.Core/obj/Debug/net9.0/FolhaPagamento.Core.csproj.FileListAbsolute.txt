@@ -1,0 +1,11 @@
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\bin\Debug\net9.0\FolhaPagamento.Core.deps.json
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\bin\Debug\net9.0\FolhaPagamento.Core.dll
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\bin\Debug\net9.0\FolhaPagamento.Core.pdb
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\obj\Debug\net9.0\FolhaPagamento.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\obj\Debug\net9.0\FolhaPagamento.Core.AssemblyInfoInputs.cache
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\obj\Debug\net9.0\FolhaPagamento.Core.AssemblyInfo.cs
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\obj\Debug\net9.0\FolhaPagamento.Core.csproj.CoreCompileInputs.cache
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\obj\Debug\net9.0\FolhaPagamento.Core.dll
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\obj\Debug\net9.0\refint\FolhaPagamento.Core.dll
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\obj\Debug\net9.0\FolhaPagamento.Core.pdb
+C:\workflow\Joao_Victor_Melo_Ofc\folhaPagamento\FolhaPagamento.Core\obj\Debug\net9.0\ref\FolhaPagamento.Core.dll

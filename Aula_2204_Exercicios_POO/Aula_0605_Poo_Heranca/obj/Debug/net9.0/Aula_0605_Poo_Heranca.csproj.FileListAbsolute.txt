@@ -1,0 +1,14 @@
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\bin\Debug\net9.0\Aula_0605_Poo_Heranca.exe
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\bin\Debug\net9.0\Aula_0605_Poo_Heranca.deps.json
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\bin\Debug\net9.0\Aula_0605_Poo_Heranca.runtimeconfig.json
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\bin\Debug\net9.0\Aula_0605_Poo_Heranca.dll
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\bin\Debug\net9.0\Aula_0605_Poo_Heranca.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\Aula_0605_Poo_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\Aula_0605_Poo_Heranca.AssemblyInfoInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\Aula_0605_Poo_Heranca.AssemblyInfo.cs
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\Aula_0605_Poo_Heranca.csproj.CoreCompileInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\Aula_0605_Poo_Heranca.dll
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\refint\Aula_0605_Poo_Heranca.dll
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\Aula_0605_Poo_Heranca.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\Aula_0605_Poo_Heranca.genruntimeconfig.cache
+C:\workflow\Aula_2204_Exercicios_POO\Aula_0605_Poo_Heranca\obj\Debug\net9.0\ref\Aula_0605_Poo_Heranca.dll

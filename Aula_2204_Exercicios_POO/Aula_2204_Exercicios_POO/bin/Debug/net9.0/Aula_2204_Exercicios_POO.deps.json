@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Aula_2204_Exercicios_POO/1.0.0": {
+        "runtime": {
+          "Aula_2204_Exercicios_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_2204_Exercicios_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\Catalogo_Tarefas_de_Casa.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\Catalogo_Tarefas_de_Casa.AssemblyInfoInputs.cache
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\Catalogo_Tarefas_de_Casa.AssemblyInfo.cs
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\Catalogo_Tarefas_de_Casa.csproj.CoreCompileInputs.cache
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\bin\Debug\net9.0\Catalogo_Tarefas_de_Casa.exe
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\bin\Debug\net9.0\Catalogo_Tarefas_de_Casa.deps.json
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\bin\Debug\net9.0\Catalogo_Tarefas_de_Casa.runtimeconfig.json
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\bin\Debug\net9.0\Catalogo_Tarefas_de_Casa.dll
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\bin\Debug\net9.0\Catalogo_Tarefas_de_Casa.pdb
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\Catalogo_Tarefas_de_Casa.dll
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\refint\Catalogo_Tarefas_de_Casa.dll
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\Catalogo_Tarefas_de_Casa.pdb
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\Catalogo_Tarefas_de_Casa.genruntimeconfig.cache
+C:\workflow\Catalogo_Tarefas_de_Casa\Catalogo_Tarefas_de_Casa\obj\Debug\net9.0\ref\Catalogo_Tarefas_de_Casa.dll

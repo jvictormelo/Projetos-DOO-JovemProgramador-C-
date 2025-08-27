@@ -1,0 +1,14 @@
+C:\workflow\aula3_exerc\Exerc2\bin\Debug\net9.0\Exerc2.exe
+C:\workflow\aula3_exerc\Exerc2\bin\Debug\net9.0\Exerc2.deps.json
+C:\workflow\aula3_exerc\Exerc2\bin\Debug\net9.0\Exerc2.runtimeconfig.json
+C:\workflow\aula3_exerc\Exerc2\bin\Debug\net9.0\Exerc2.dll
+C:\workflow\aula3_exerc\Exerc2\bin\Debug\net9.0\Exerc2.pdb
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\Exerc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\Exerc2.AssemblyInfoInputs.cache
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\Exerc2.AssemblyInfo.cs
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\Exerc2.csproj.CoreCompileInputs.cache
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\Exerc2.dll
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\refint\Exerc2.dll
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\Exerc2.pdb
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\Exerc2.genruntimeconfig.cache
+C:\workflow\aula3_exerc\Exerc2\obj\Debug\net9.0\ref\Exerc2.dll

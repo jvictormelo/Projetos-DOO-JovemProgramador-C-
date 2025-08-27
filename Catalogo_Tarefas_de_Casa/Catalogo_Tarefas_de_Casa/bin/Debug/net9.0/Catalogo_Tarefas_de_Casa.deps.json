@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Catalogo_Tarefas_de_Casa/1.0.0": {
+        "runtime": {
+          "Catalogo_Tarefas_de_Casa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Catalogo_Tarefas_de_Casa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

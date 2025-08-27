@@ -1,0 +1,14 @@
+C:\workflow\catalago_Netflix\bin\Debug\net9.0\catalago_Netflix.exe
+C:\workflow\catalago_Netflix\bin\Debug\net9.0\catalago_Netflix.deps.json
+C:\workflow\catalago_Netflix\bin\Debug\net9.0\catalago_Netflix.runtimeconfig.json
+C:\workflow\catalago_Netflix\bin\Debug\net9.0\catalago_Netflix.dll
+C:\workflow\catalago_Netflix\bin\Debug\net9.0\catalago_Netflix.pdb
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\catalago_Netflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\catalago_Netflix.AssemblyInfoInputs.cache
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\catalago_Netflix.AssemblyInfo.cs
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\catalago_Netflix.csproj.CoreCompileInputs.cache
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\catalago_Netflix.dll
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\refint\catalago_Netflix.dll
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\catalago_Netflix.pdb
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\catalago_Netflix.genruntimeconfig.cache
+C:\workflow\catalago_Netflix\obj\Debug\net9.0\ref\catalago_Netflix.dll

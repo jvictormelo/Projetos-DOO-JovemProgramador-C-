@@ -1,0 +1,14 @@
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\bin\Debug\net9.0\desafio_Acerte_Numero.exe
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\bin\Debug\net9.0\desafio_Acerte_Numero.deps.json
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\bin\Debug\net9.0\desafio_Acerte_Numero.runtimeconfig.json
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\bin\Debug\net9.0\desafio_Acerte_Numero.dll
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\bin\Debug\net9.0\desafio_Acerte_Numero.pdb
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\desafio_Acerte_Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\desafio_Acerte_Numero.AssemblyInfoInputs.cache
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\desafio_Acerte_Numero.AssemblyInfo.cs
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\desafio_Acerte_Numero.csproj.CoreCompileInputs.cache
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\desafio_Acerte_Numero.dll
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\refint\desafio_Acerte_Numero.dll
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\desafio_Acerte_Numero.pdb
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\desafio_Acerte_Numero.genruntimeconfig.cache
+C:\workflow\exercicios_Praticos\desafio_Acerte_Numero\obj\Debug\net9.0\ref\desafio_Acerte_Numero.dll

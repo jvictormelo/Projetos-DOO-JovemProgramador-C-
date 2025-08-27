@@ -1,0 +1,14 @@
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\bin\Debug\net9.0\Exemplo_Polimorfismo13_05.exe
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\bin\Debug\net9.0\Exemplo_Polimorfismo13_05.deps.json
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\bin\Debug\net9.0\Exemplo_Polimorfismo13_05.runtimeconfig.json
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\bin\Debug\net9.0\Exemplo_Polimorfismo13_05.dll
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\bin\Debug\net9.0\Exemplo_Polimorfismo13_05.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\Exemplo_Polimorfismo13_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\Exemplo_Polimorfismo13_05.AssemblyInfoInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\Exemplo_Polimorfismo13_05.AssemblyInfo.cs
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\Exemplo_Polimorfismo13_05.csproj.CoreCompileInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\Exemplo_Polimorfismo13_05.dll
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\refint\Exemplo_Polimorfismo13_05.dll
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\Exemplo_Polimorfismo13_05.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\Exemplo_Polimorfismo13_05.genruntimeconfig.cache
+C:\workflow\Aula_2204_Exercicios_POO\Exemplo_Polimorfismo13_05\obj\Debug\net9.0\ref\Exemplo_Polimorfismo13_05.dll

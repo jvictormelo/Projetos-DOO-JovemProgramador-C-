@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Autenticacao_usuario/1.0.0": {
+        "runtime": {
+          "Autenticacao_usuario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Autenticacao_usuario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

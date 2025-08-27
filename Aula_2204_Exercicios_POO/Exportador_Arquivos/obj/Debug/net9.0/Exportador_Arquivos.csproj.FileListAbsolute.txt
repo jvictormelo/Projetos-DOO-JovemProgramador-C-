@@ -1,0 +1,14 @@
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\bin\Debug\net9.0\Exportador_Arquivos.exe
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\bin\Debug\net9.0\Exportador_Arquivos.deps.json
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\bin\Debug\net9.0\Exportador_Arquivos.runtimeconfig.json
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\bin\Debug\net9.0\Exportador_Arquivos.dll
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\bin\Debug\net9.0\Exportador_Arquivos.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\Exportador_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\Exportador_Arquivos.AssemblyInfoInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\Exportador_Arquivos.AssemblyInfo.cs
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\Exportador_Arquivos.csproj.CoreCompileInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\Exportador_Arquivos.dll
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\refint\Exportador_Arquivos.dll
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\Exportador_Arquivos.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\Exportador_Arquivos.genruntimeconfig.cache
+C:\workflow\Aula_2204_Exercicios_POO\Exportador_Arquivos\obj\Debug\net9.0\ref\Exportador_Arquivos.dll

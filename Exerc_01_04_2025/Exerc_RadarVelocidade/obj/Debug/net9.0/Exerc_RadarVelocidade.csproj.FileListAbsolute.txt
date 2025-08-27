@@ -1,0 +1,14 @@
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\bin\Debug\net9.0\Exerc_RadarVelocidade.exe
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\bin\Debug\net9.0\Exerc_RadarVelocidade.deps.json
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\bin\Debug\net9.0\Exerc_RadarVelocidade.runtimeconfig.json
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\bin\Debug\net9.0\Exerc_RadarVelocidade.dll
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\bin\Debug\net9.0\Exerc_RadarVelocidade.pdb
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\Exerc_RadarVelocidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\Exerc_RadarVelocidade.AssemblyInfoInputs.cache
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\Exerc_RadarVelocidade.AssemblyInfo.cs
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\Exerc_RadarVelocidade.csproj.CoreCompileInputs.cache
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\Exerc_RadarVelocidade.dll
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\refint\Exerc_RadarVelocidade.dll
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\Exerc_RadarVelocidade.pdb
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\Exerc_RadarVelocidade.genruntimeconfig.cache
+C:\workflow\Exerc_01_04_2025\Exerc_RadarVelocidade\obj\Debug\net9.0\ref\Exerc_RadarVelocidade.dll

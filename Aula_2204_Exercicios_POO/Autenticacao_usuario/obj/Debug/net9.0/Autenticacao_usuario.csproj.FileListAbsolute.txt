@@ -1,0 +1,14 @@
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\bin\Debug\net9.0\Autenticacao_usuario.exe
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\bin\Debug\net9.0\Autenticacao_usuario.deps.json
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\bin\Debug\net9.0\Autenticacao_usuario.runtimeconfig.json
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\bin\Debug\net9.0\Autenticacao_usuario.dll
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\bin\Debug\net9.0\Autenticacao_usuario.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\Autenticacao_usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\Autenticacao_usuario.AssemblyInfoInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\Autenticacao_usuario.AssemblyInfo.cs
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\Autenticacao_usuario.csproj.CoreCompileInputs.cache
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\Autenticacao_usuario.dll
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\refint\Autenticacao_usuario.dll
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\Autenticacao_usuario.pdb
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\Autenticacao_usuario.genruntimeconfig.cache
+C:\workflow\Aula_2204_Exercicios_POO\Autenticacao_usuario\obj\Debug\net9.0\ref\Autenticacao_usuario.dll

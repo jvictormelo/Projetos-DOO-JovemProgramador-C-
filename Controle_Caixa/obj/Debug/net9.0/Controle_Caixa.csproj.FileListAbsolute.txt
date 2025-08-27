@@ -1,0 +1,14 @@
+C:\workflow\Controle_Caixa\bin\Debug\net9.0\Controle_Caixa.exe
+C:\workflow\Controle_Caixa\bin\Debug\net9.0\Controle_Caixa.deps.json
+C:\workflow\Controle_Caixa\bin\Debug\net9.0\Controle_Caixa.runtimeconfig.json
+C:\workflow\Controle_Caixa\bin\Debug\net9.0\Controle_Caixa.dll
+C:\workflow\Controle_Caixa\bin\Debug\net9.0\Controle_Caixa.pdb
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\Controle_Caixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\Controle_Caixa.AssemblyInfoInputs.cache
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\Controle_Caixa.AssemblyInfo.cs
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\Controle_Caixa.csproj.CoreCompileInputs.cache
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\Controle_Caixa.dll
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\refint\Controle_Caixa.dll
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\Controle_Caixa.pdb
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\Controle_Caixa.genruntimeconfig.cache
+C:\workflow\Controle_Caixa\obj\Debug\net9.0\ref\Controle_Caixa.dll

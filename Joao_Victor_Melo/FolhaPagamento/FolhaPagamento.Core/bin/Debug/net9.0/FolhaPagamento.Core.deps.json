@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FolhaPagamento.Core/1.0.0": {
+        "runtime": {
+          "FolhaPagamento.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FolhaPagamento.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

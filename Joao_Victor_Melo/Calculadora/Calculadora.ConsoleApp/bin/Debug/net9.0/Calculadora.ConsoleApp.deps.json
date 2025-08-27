@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Calculadora.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Calculadora.Core": "1.0.0"
+        },
+        "runtime": {
+          "Calculadora.ConsoleApp.dll": {}
+        }
+      },
+      "Calculadora.Core/1.0.0": {
+        "runtime": {
+          "Calculadora.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculadora.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

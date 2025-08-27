@@ -1,0 +1,14 @@
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\bin\Debug\net9.0\Calculo_notas4_0.exe
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\bin\Debug\net9.0\Calculo_notas4_0.deps.json
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\bin\Debug\net9.0\Calculo_notas4_0.runtimeconfig.json
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\bin\Debug\net9.0\Calculo_notas4_0.dll
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\bin\Debug\net9.0\Calculo_notas4_0.pdb
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\Calculo_notas4_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\Calculo_notas4_0.AssemblyInfoInputs.cache
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\Calculo_notas4_0.AssemblyInfo.cs
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\Calculo_notas4_0.csproj.CoreCompileInputs.cache
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\Calculo_notas4_0.dll
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\refint\Calculo_notas4_0.dll
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\Calculo_notas4_0.pdb
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\Calculo_notas4_0.genruntimeconfig.cache
+C:\workflow\Calculo_notas4_0\Calculo_notas4_0\obj\Debug\net9.0\ref\Calculo_notas4_0.dll

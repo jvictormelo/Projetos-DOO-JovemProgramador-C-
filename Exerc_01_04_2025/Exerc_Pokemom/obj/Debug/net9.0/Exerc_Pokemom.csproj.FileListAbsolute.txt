@@ -1,0 +1,14 @@
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\bin\Debug\net9.0\Exerc_Pokemom.exe
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\bin\Debug\net9.0\Exerc_Pokemom.deps.json
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\bin\Debug\net9.0\Exerc_Pokemom.runtimeconfig.json
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\bin\Debug\net9.0\Exerc_Pokemom.dll
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\bin\Debug\net9.0\Exerc_Pokemom.pdb
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\Exerc_Pokemom.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\Exerc_Pokemom.AssemblyInfoInputs.cache
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\Exerc_Pokemom.AssemblyInfo.cs
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\Exerc_Pokemom.csproj.CoreCompileInputs.cache
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\Exerc_Pokemom.dll
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\refint\Exerc_Pokemom.dll
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\Exerc_Pokemom.pdb
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\Exerc_Pokemom.genruntimeconfig.cache
+C:\workflow\Exerc_01_04_2025\Exerc_Pokemom\obj\Debug\net9.0\ref\Exerc_Pokemom.dll

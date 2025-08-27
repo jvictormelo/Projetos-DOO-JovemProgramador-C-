@@ -1,0 +1,14 @@
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\bin\Debug\net9.0\Exerc_01_04_2025.exe
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\bin\Debug\net9.0\Exerc_01_04_2025.deps.json
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\bin\Debug\net9.0\Exerc_01_04_2025.runtimeconfig.json
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\bin\Debug\net9.0\Exerc_01_04_2025.dll
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\bin\Debug\net9.0\Exerc_01_04_2025.pdb
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\Exerc_01_04_2025.GeneratedMSBuildEditorConfig.editorconfig
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\Exerc_01_04_2025.AssemblyInfoInputs.cache
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\Exerc_01_04_2025.AssemblyInfo.cs
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\Exerc_01_04_2025.csproj.CoreCompileInputs.cache
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\Exerc_01_04_2025.dll
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\refint\Exerc_01_04_2025.dll
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\Exerc_01_04_2025.pdb
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\Exerc_01_04_2025.genruntimeconfig.cache
+c:\workflow\Exerc_01_04_2025\Exerc_01_04_2025\obj\Debug\net9.0\ref\Exerc_01_04_2025.dll

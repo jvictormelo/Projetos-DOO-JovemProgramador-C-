@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workflow\\Trabalho_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|c:\\workflow\\trabalho_final\\trabalho_final\\sga_senacdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|solutionrelative:trabalho_final\\sga_senacdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|c:\\workflow\\trabalho_final\\trabalho_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|solutionrelative:trabalho_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|c:\\workflow\\trabalho_final\\trabalho_final\\trabalho_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|solutionrelative:trabalho_final\\trabalho_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|c:\\workflow\\trabalho_final\\trabalho_final\\igerenciadoraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|solutionrelative:trabalho_final\\igerenciadoraluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|c:\\workflow\\trabalho_final\\trabalho_final\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|solutionrelative:trabalho_final\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|c:\\workflow\\trabalho_final\\trabalho_final\\alunobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|solutionrelative:trabalho_final\\alunobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|c:\\workflow\\trabalho_final\\trabalho_final\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|solutionrelative:trabalho_final\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|c:\\workflow\\trabalho_final\\trabalho_final\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1C0B1F-F839-4C79-B0EB-81285DD40A31}|Trabalho_Final\\Trabalho_Final.csproj|solutionrelative:trabalho_final\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trabalho_Final",
+              "DocumentMoniker": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
+              "RelativeDocumentMoniker": "Trabalho_Final\\Trabalho_Final.csproj",
+              "ToolTip": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
+              "RelativeToolTip": "Trabalho_Final\\Trabalho_Final.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T22:34:57.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SGA_senacDAO.cs",
+              "DocumentMoniker": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\SGA_senacDAO.cs",
+              "RelativeDocumentMoniker": "Trabalho_Final\\SGA_senacDAO.cs",
+              "ToolTip": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\SGA_senacDAO.cs",
+              "RelativeToolTip": "Trabalho_Final\\SGA_senacDAO.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:34:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho_Final\\Program.cs",
+              "ToolTip": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Program.cs",
+              "RelativeToolTip": "Trabalho_Final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:34:56.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGerenciadorAluno.cs",
+              "DocumentMoniker": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\IGerenciadorAluno.cs",
+              "RelativeDocumentMoniker": "Trabalho_Final\\IGerenciadorAluno.cs",
+              "ToolTip": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\IGerenciadorAluno.cs",
+              "RelativeToolTip": "Trabalho_Final\\IGerenciadorAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:34:56.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Connection.cs",
+              "RelativeDocumentMoniker": "Trabalho_Final\\Connection.cs",
+              "ToolTip": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Connection.cs",
+              "RelativeToolTip": "Trabalho_Final\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:34:56.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoBanco.cs",
+              "DocumentMoniker": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\AlunoBanco.cs",
+              "RelativeDocumentMoniker": "Trabalho_Final\\AlunoBanco.cs",
+              "ToolTip": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\AlunoBanco.cs",
+              "RelativeToolTip": "Trabalho_Final\\AlunoBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:34:56.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Aluno.cs",
+              "RelativeDocumentMoniker": "Trabalho_Final\\Aluno.cs",
+              "ToolTip": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Aluno.cs",
+              "RelativeToolTip": "Trabalho_Final\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:34:56.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Admin.cs",
+              "RelativeDocumentMoniker": "Trabalho_Final\\Admin.cs",
+              "ToolTip": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Admin.cs",
+              "RelativeToolTip": "Trabalho_Final\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:34:56.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

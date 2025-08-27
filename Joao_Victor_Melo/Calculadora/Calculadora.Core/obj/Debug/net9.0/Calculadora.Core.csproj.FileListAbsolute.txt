@@ -1,0 +1,11 @@
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\bin\Debug\net9.0\Calculadora.Core.deps.json
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\bin\Debug\net9.0\Calculadora.Core.dll
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\bin\Debug\net9.0\Calculadora.Core.pdb
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.AssemblyInfoInputs.cache
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.AssemblyInfo.cs
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.csproj.CoreCompileInputs.cache
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.dll
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\obj\Debug\net9.0\refint\Calculadora.Core.dll
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\obj\Debug\net9.0\Calculadora.Core.pdb
+C:\workflow\Joao_Victor_Melo\Calculadora\Calculadora.Core\obj\Debug\net9.0\ref\Calculadora.Core.dll

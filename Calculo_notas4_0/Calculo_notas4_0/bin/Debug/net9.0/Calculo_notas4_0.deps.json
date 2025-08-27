@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Calculo_notas4_0/1.0.0": {
+        "runtime": {
+          "Calculo_notas4_0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculo_notas4_0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

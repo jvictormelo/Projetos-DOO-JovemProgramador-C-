@@ -1,0 +1,14 @@
+C:\workflow\exercicios_Praticos\exercicios_Praticos\bin\Debug\net9.0\exercicios_Praticos.exe
+C:\workflow\exercicios_Praticos\exercicios_Praticos\bin\Debug\net9.0\exercicios_Praticos.deps.json
+C:\workflow\exercicios_Praticos\exercicios_Praticos\bin\Debug\net9.0\exercicios_Praticos.runtimeconfig.json
+C:\workflow\exercicios_Praticos\exercicios_Praticos\bin\Debug\net9.0\exercicios_Praticos.dll
+C:\workflow\exercicios_Praticos\exercicios_Praticos\bin\Debug\net9.0\exercicios_Praticos.pdb
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\exercicios_Praticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\exercicios_Praticos.AssemblyInfoInputs.cache
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\exercicios_Praticos.AssemblyInfo.cs
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\exercicios_Praticos.csproj.CoreCompileInputs.cache
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\exercicios_Praticos.dll
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\refint\exercicios_Praticos.dll
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\exercicios_Praticos.pdb
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\exercicios_Praticos.genruntimeconfig.cache
+C:\workflow\exercicios_Praticos\exercicios_Praticos\obj\Debug\net9.0\ref\exercicios_Praticos.dll
