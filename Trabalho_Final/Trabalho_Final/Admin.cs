@@ -92,10 +92,10 @@ public class Admin : IGerenciadorAluno
         Console.WriteLine("\nCadastro de Aluno");
         Aluno aluno = new Aluno();
 
-        Console.Write("id do Admin: ");
-        aluno.IdAdmin = int.Parse(Console.ReadLine());
-
-        Console.Write("Nome: ");
+        Console.Write($"id do Admin: {IdAdmin}");
+        aluno.IdAdmin = IdAdmin;
+        // aluno.IdAdmin = int.Parse(Console.ReadLine());
+        Console.Write("\nNome: ");
         aluno.Nome = Console.ReadLine();
 
         Console.Write("Data de nascimento (formato: dd/MM/yyyy): ");

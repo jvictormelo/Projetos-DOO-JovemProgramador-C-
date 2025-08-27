@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj": {}
+    "C:\\workflow\\Projetos-C#\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj": {}
   },
   "projects": {
-    "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj": {
+    "C:\\workflow\\Projetos-C#\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
+        "projectUniqueName": "C:\\workflow\\Projetos-C#\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
         "projectName": "Trabalho_Final",
-        "projectPath": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
+        "projectPath": "C:\\workflow\\Projetos-C#\\Trabalho_Final\\Trabalho_Final\\Trabalho_Final.csproj",
         "packagesPath": "C:\\Users\\jvmel\\.nuget\\packages\\",
-        "outputPath": "C:\\workflow\\Trabalho_Final\\Trabalho_Final\\obj\\",
+        "outputPath": "C:\\workflow\\Projetos-C#\\Trabalho_Final\\Trabalho_Final\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

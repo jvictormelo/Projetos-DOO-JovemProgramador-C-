@@ -310,7 +310,7 @@ public class SGA_senacDAO
                 aluno.IdAdmin = Convert.ToInt16(leitor["admin_idAdmin"]);
                 aluno.Id = Convert.ToInt16(leitor["idAlunos"]);
                 alunos.Add(aluno);
-                Console.WriteLine($"Nome: {aluno.Nome}, Nascimento: {aluno.DataNascimento:dd/MM/yyyy}, CPF: {aluno.Cpf}, Endereço: {aluno.Endereco} \nMatrícula: {aluno.Matricula}, AdminID: {aluno.IdAdmin}, ID: {aluno.Id}");
+                Console.WriteLine($"Nome: {aluno.Nome}, Nascimento: {aluno.DataNascimento:dd/MM/yyyy}, CPF: {aluno.Cpf}, Endereço: {aluno.Endereco} \nMatrícula: {aluno.Matricula}, AdminID: {aluno.IdAdmin}, ID Aluno: {aluno.Id}");
 
             }
             return alunos;
@@ -341,7 +341,6 @@ public class SGA_senacDAO
                 admin.Senha = Convert.ToString(leitor["senha"]);
                 admin.IdAdmin = Convert.ToInt16(leitor["idAdmin"]);
                 admins.Add(admin);
-                Console.WriteLine($"Login: {admin.Login}, Senha: {admin.Senha}, ID: {admin.IdAdmin}");
             }
             return admins;
         }
